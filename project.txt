@@ -1,3 +1,4 @@
 a quick brown fox jumps over the lazy dog.
 asdfjkl;
+we are learning git in this class.
 
